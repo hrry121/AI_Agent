@@ -29,5 +29,5 @@ This project showcases a custom **AI Agent system** built using **Phidata** to i
 You can include a basic setup guide like:
 
 ```bash
-git clone https://github.com/hrry121/ai-agent-project.git
+git clone https://github.com/hrry121/AI_Agent.git
 
