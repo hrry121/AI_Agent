@@ -31,3 +31,9 @@ You can include a basic setup guide like:
 ```bash
 git clone https://github.com/hrry121/AI_Agent.git
 
+Install Requirements
+
+Set Environment Variables
+
+Run the Agent UI
+
