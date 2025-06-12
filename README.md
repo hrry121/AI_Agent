@@ -2,6 +2,7 @@
 
 This project showcases a custom AI Agent system built using Phidata to integrate multiple tools like yfinance and DuckDuckGo, enabling it to answer queries related to finance and general web searches. The agents are deployed with Groq Cloud for high-performance LLM inference, and conversations are displayed using Agent UI for a clean frontend experience.
 
+---
 🧰 Tech Stack
 Phidata – Agent orchestration
 
@@ -15,6 +16,7 @@ DuckDuckGo – Web search (Web Agent)
 
 Python
 
+---
 🔍 Features
 🔎 Ask real-time stock prices using Finance Agent
 
