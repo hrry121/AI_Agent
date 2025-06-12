@@ -1,27 +1,33 @@
-# AI Agent using Phidata
+# 🤖 AI Agent using Phidata
 
-This project showcases a custom AI Agent system built using Phidata to integrate multiple tools like yfinance and DuckDuckGo, enabling it to answer queries related to finance and general web searches. The agents are deployed with Groq Cloud for high-performance LLM inference, and conversations are displayed using Agent UI for a clean frontend experience.
-
----
-🧰 Tech Stack
-Phidata – Agent orchestration
-
-Groq Cloud – LLM hosting (LLaMA model)
-
-Agent UI – Interactive chat interface
-
-yfinance – Stock data querying (Finance Agent)
-
-DuckDuckGo – Web search (Web Agent)
-
-Python
+This project showcases a custom **AI Agent system** built using **Phidata** to integrate tools like `yfinance` and `DuckDuckGo`. The agent is capable of answering queries related to finance and general web search. The system uses **Groq Cloud** for LLM inference and displays conversations through an interactive **Agent UI**.
 
 ---
-🔍 Features
-🔎 Ask real-time stock prices using Finance Agent
 
-🌐 Search the web via DuckDuckGo with Web Agent
+## 🧰 Tech Stack
 
-💬 Chat interface with easy-to-follow messages
+- **Phidata** – Agent orchestration  
+- **Groq Cloud** – LLM hosting (LLaMA model)  
+- **Agent UI** – Interactive chat interface  
+- **yfinance** – Stock data querying (Finance Agent)  
+- **DuckDuckGo** – Web search (Web Agent)  
+- **Python** – Core programming language  
 
-⚡ Powered by LLaMA on Groq Cloud for fast responses
+---
+
+## 🔍 Features
+
+- 🔎 Real-time stock price lookup using **Finance Agent**  
+- 🌐 General web search through **DuckDuckGo Web Agent**  
+- 💬 Interactive and clean **chat interface** with Agent UI  
+- ⚡ Fast and efficient responses powered by **Groq Cloud + LLaMA model**
+
+---
+
+## 🚀 Getting Started (Optional)
+
+You can include a basic setup guide like:
+
+```bash
+git clone https://github.com/hrry121/ai-agent-project.git
+
